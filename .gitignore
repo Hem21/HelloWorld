@@ -1,0 +1,5 @@
+*.suo
+/HelloWorldCpp/Debug
+/HelloWorldCpp/HelloWorldCpp/Debug
+/HelloWorldCpp/ipch
+/HelloWorldCpp/HelloWorldCpp.sdf
