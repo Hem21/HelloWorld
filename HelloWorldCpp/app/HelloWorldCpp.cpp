@@ -10,7 +10,8 @@
 
 int _tmain(int argc, _TCHAR* argv[])
 {
-	std::cout << "Hello World version " << VERSION_STRING << std::endl;
+	std::cout << "Hello World version: " << VERSION_STRING << std::endl;
+	std::count << "Git Head Hash: " << GITHASH_STRING << std::endl;
 
 	return 0;
 }
