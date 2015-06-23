@@ -2,4 +2,5 @@
 
 @echo off
 
-echo I woz here 1234 > version.h
+::echo const char *git     = "$(git rev-parse HEAD)"\; > version.h
+echo const char *version = "%BUILD_TAG%"\; >> version.h
