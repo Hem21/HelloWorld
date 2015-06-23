@@ -1,8 +1,8 @@
-#ifndef Thor__Version__Number__h
-#define Thor__Version__Number__h
+#ifndef THOR_VERSION_NUMBER_H
+#define THOR_VERSION_NUMBER_H
 
-#include <string>
+// Do Not Edit
+const char *GITHASH_STRING     = "Unknown_GitHash";
+const char *VERSION_STRING     = "Unknown_Version";
 
-const std::string VERSION_STRING = "0,0,0,0";
-
-#endif // Thor__Version__Number__h
+#endif // THOR_VERSION_NUMBER_H
