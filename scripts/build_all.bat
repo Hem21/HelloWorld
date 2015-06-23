@@ -21,6 +21,7 @@ echo.  >> %versionFilePath%
 echo #endif // THOR_VERSION_NUMBER_H >> %versionFilePath%
 
 :: Run Cmake to generate the project files
+cd HelloWorldCpp
 mkdir build
 cd build
 cmake .. -G "Visual Studio 12 2013"
