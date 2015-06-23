@@ -1,5 +1,2 @@
-*.suo
-/HelloWorldCpp/Debug
-/HelloWorldCpp/HelloWorldCpp/Debug
-/HelloWorldCpp/ipch
-/HelloWorldCpp/HelloWorldCpp.sdf
+/HelloWorldCpp/build
+/HelloWorldCpp/cmake cmds.txt
